@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: Rubik;
+    src: url("../font/Rubik-Medium.ttf");
+}
+
 body {
     font-family: "Rubik",sans-serif;
     background-color: beige;
